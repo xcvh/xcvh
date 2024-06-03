@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcvh&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcvh&show_icons=true&theme=transparent&hide=contribs,prs,issues,stars)
 
 <!--
 **xcvh/xcvh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
