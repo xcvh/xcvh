@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcvh&show_icons=true&theme=transparent&hide=contribs,prs,issues,stars) -->
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcvh&show_icons=true&theme=transparent&hide=contribs,prs,issues,stars)
 
 <!--
 **xcvh/xcvh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I work as a Digital Solutions Designer at ACEEU. In simple terms, I am responsible for the digital user experiences in some of our projects, mainly CyberSecPro, DICE, BETTER Life, SDG i-Level and RestART Europe. In practice that means some basic web development and user interface design and support. Internally, I oil the digital cogs of the machine that is ACEEU and make sure everything is running smoothly and as expected, providing basic tech support to the team and streamlining digital processes with automation.
+
+As many technically minded individuals can surely relate, I love satisfying that puzzle itch when faced with a problem. I enjoy discovering, working on, and refining solutions, iterating through ideas, and ultimately creating something to be proud of. Working in EU Projects has been a great experience since I am passionate about technology and its potential to make the world a better place and I am grateful to have the opportunity to bring these two passions together, alongside a diverse and supportive team at ACEEU.
